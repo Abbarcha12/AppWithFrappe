@@ -1,0 +1,41 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "16.0.0-dev"
+    },
+    "abrar_management": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "f008ae459eafcd98f6fbde0ea35110e90abbe55d",
+            "branch": "abrar"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    },
+    "frappe_actions": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "c53fbf6143a33e197990c06d5d23c6c6c23afdcc",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.0.1"
+    },
+    "frappe_1": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "8f904101a0fbe8f2d3f33c5152cd7450c569f8b0",
+            "branch": "frappe_1"
+        },
+        "required": [],
+        "idx": 4,
+        "version": "0.0.1"
+    }
+}
